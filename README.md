@@ -53,10 +53,6 @@ Read and return accelerometer data as a list `[x, y, z]` where `x`, `y`, and `z`
 
 Read and return gyroscope data as a list `[x, y, z]` where `x`, `y`, and `z` are the angular velocity values in degrees per second.
 
-## License
-
-This library is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contributions
 
-Contributions and feedback are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or create a pull request on [GitHub](https://github.com/yourusername/mpu6050-python).
+Contributions and feedback are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or create a pull request on GitHub.
