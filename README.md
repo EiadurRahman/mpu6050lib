@@ -5,7 +5,8 @@ This library facilitates communication with the MPU6050 sensor, which combines a
 ## Installation
 1. Ensure your MicroPython environment is set up on your microcontroller board.
 2. Copy the `mpu6050.py` file to your project directory.
-   or,
+
+or,
 run this script,(Internet required)
 
 ```python
