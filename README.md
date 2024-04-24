@@ -3,9 +3,15 @@
 This library facilitates communication with the MPU6050 sensor, which combines an accelerometer and a gyroscope. It enables easy initialization of the sensor, reading accelerometer and gyroscope data, and performing various tasks on MicroPython-based microcontroller boards.
 
 ## Installation
-
 1. Ensure your MicroPython environment is set up on your microcontroller board.
 2. Copy the `mpu6050.py` file to your project directory.
+   or,
+run this script,(Internet required)
+
+```python
+import mip
+mip.install('https://raw.githubusercontent.com/EiadurRahman/mpu6050lib/main/mpu6050.py')
+```
 
 ## Usage
 
